@@ -6,6 +6,6 @@ setup(name="funniest_mawe",
       url="",
       author="Martin Wegner",
       author_email="ma.wegner@em.uni-frankfurt.de",
-      license="MIT",
+      license="MIT???",
       packages=["funniest_mawe"],
       zip_safe=False)
